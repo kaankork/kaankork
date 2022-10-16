@@ -2,7 +2,7 @@
 - 💻 I'm a Data Science Consultant, retired pro basketballer and drone photographer.
 - 👀 I’m interested in automating boring tasks & using data in useful ways.
 - 🤓 I’m currently learning GPT3, Speech/Voice Recognition and Solution Architecture on AWS.
-- 🚀 I’m looking to collaborate on **making podcast more transparent.**
+- 🚀 I’m looking to collaborate on **making podcasts more transparent.**
 - 📫 How to reach me - [Linkedin](https://www.linkedin.com/in/kaankorkmaz/)
 
 <!---
