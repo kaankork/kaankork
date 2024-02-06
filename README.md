@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @kaankork
-- 💻 I'm a Data Science Consultant, retired pro basketballer and drone photographer.
-- 👀 I’m interested in automating boring tasks & using data in useful ways.
-- 🤓 I’m currently learning React, GPT-3 and Machine Learning Specialty on AWS.
-- ☁️ I'm a certified AWS Solution Architect, ML Specialty and Cloud Practitioner.
+- 💻 I'm a Data Consultant (Freelance) and Specialist for Data Science & Analytics at BMW Group.
+- 👀 I’m passionate about using programming and AI to optimize processes.
+- 🤓 I’m currently learning LangChain and about the Chip Crisis.
+- ☁️ I'm three times AWS certified - Solution Architect Associate, ML Specialty and Cloud Practitioner.
 - 🚀 I’m looking to collaborate on **improving the podcast experience.**
 - 📫 How to reach me - [Linkedin](https://www.linkedin.com/in/kaankorkmaz/)
 
