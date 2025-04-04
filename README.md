@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaankork
-- 💻 I'm a GenAI Data Scientist at BMW Group working on use-cases within Supply Chain.
+- 💻 I'm a GenAI Data Scientist at BMW Group working on Supply Chain use-cases.
 - 👀 I’m passionate about using Data and AI to optimize processes.
 - 🤓 I’m currently learning multi-agent frameworks.
 - ☁️ I'm three times AWS certified - Solution Architect Associate, ML Specialty and Cloud Practitioner.
